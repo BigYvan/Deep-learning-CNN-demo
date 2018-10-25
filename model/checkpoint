@@ -1,0 +1,2 @@
+model_checkpoint_path: "dense.ckpt"
+all_model_checkpoint_paths: "dense.ckpt"
